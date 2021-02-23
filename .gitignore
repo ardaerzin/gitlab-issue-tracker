@@ -1,0 +1,7 @@
+.env
+.env.dev
+node_modules
+google-credentials.json
+sheet.json
+token.json
+package-lock.json
